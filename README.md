@@ -1,16 +1,11 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Open Source Projects
+- 🌱 I’m currently learning Networking
 - 👯 I’m looking to collaborate on open source
 
 - 💬 Ask me about anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <p align="center">
 <a href="https://github.com/samirkumar111">
@@ -19,8 +14,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 <hr>
-**MY WORKING TOOLS**
-![Python](https://img.shields.io/badge/-Python-05122A?style=big&logo=python)&nbsp;
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
